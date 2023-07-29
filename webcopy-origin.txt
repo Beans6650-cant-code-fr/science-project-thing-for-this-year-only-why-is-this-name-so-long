@@ -1,0 +1,224 @@
+Uri: https://fonts.googleapis.com/css?family=Abril+Fatface
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Arimo|Merriweather|Staatliches|Tenor+Sans
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\s\abrilfatface\v19\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v28/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\s\arimo\v28\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/staatliches/v11/HI_OiY8KO6hCsQSoAPmtMYebvpU.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\s\staatliches\v11\HI_OiY8KO6hCsQSoAPmtMYebvpU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Dw.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\s\tenorsans\v17\bx6ANxqUneKx06UkIXISn3V4Dw.ttf
+Content Type: font/ttf
+
+Uri: https://sciencepedia6agroup2.onrender.com/
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\index.htm
+Content Type: text/html
+
+Uri: https://sciencepedia6agroup2.onrender.com/css/animate.css
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css\animate.css
+Content Type: text/css
+
+Uri: https://sciencepedia6agroup2.onrender.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://sciencepedia6agroup2.onrender.com/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://sciencepedia6agroup2.onrender.com/css/ken-burns.css
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css\ken-burns.css
+Content Type: text/css
+
+Uri: https://sciencepedia6agroup2.onrender.com/css/style.css
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\css\style.css
+Content Type: text/css
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://sciencepedia6agroup2.onrender.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/1.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/14.png
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\14.png
+Content Type: image/png
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/17.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\17.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/18.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\18.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/2.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/3.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/3.png
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\3.png
+Content Type: image/png
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/37.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\37.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/39.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\39.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/4.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/40.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\40.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/42.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\42.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/43.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\43.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/44.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\44.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/45.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\45.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/49.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\49.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/5.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/50.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\50.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/51.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\51.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/52.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\52.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/53.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\53.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/6.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/7.jpg
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/C_V_Raman__1200x768.webp
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\C_V_Raman__1200x768.webp
+Content Type: image/webp
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/logo.png
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\logo.png
+Content Type: image/png
+
+Uri: https://sciencepedia6agroup2.onrender.com/img/Raman_energy_levels.svg.png
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\img\Raman_energy_levels.svg.png
+Content Type: image/png
+
+Uri: https://sciencepedia6agroup2.onrender.com/index.html
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\index.html
+Content Type: text/html
+
+Uri: https://sciencepedia6agroup2.onrender.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://sciencepedia6agroup2.onrender.com/js/custom.js
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\js\custom.js
+Content Type: text/javascript
+
+Uri: https://sciencepedia6agroup2.onrender.com/js/jquery-2.1.1.min.js
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\js\jquery-2.1.1.min.js
+Content Type: text/javascript
+
+Uri: https://sciencepedia6agroup2.onrender.com/project.html
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\project.html
+Content Type: text/html
+
+Uri: https://sciencepedia6agroup2.onrender.com/team.html
+File Name: C:\Downloaded Web Sites\sciencepedia6agroup2.onrender.com\team.html
+Content Type: text/html
+
