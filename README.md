@@ -1,1 +1,2 @@
-# science-project-thing-for-this-year-only-why-is-this-name-so-long
+# This is the project
+## If you're here, just ignore it lol
